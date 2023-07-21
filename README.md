@@ -2,6 +2,9 @@
 
 This repository contains the basic supply chain approach to sharing the air cargo shipment record in the IATA ONE Record framwork.
 
+The Main Document with the Good practice is MainDoc.md.
+
+
 # License: CC BY-SA
 
 You are free to:
