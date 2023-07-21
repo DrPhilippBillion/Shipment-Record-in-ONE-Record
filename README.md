@@ -1,5 +1,6 @@
 # Shipment-Record-in-ONE-Record
 
+This repository contains the basic supply chain approach to sharing the air cargo shipment record in the IATA ONE Record framwork.
 
 # License: CC BY-SA
 
